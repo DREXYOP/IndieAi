@@ -1,0 +1,7 @@
+{
+    "apikey": "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",
+    "apiorg": "",
+    "token": "OTg4Nzg3OTI2MzUzNzA3MDM4.GsKlBj.1cWU0SFHfMu1tZPtdBjsNNK_NWB-zh8i4TQ8pw",
+    "logs": false,
+    "db": "mongodb+srv://debadithya:debadithya@cluster0.pme4jf7.mongodb.net/?retryWrites=true&w=majority"
+}

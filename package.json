@@ -1,0 +1,27 @@
+{
+  "name": "indieai",
+  "version": "1.0.0",
+  "description": "indie hq's Ai bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DREXYOP/IndieAi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DREXYOP/IndieAi/issues"
+  },
+  "homepage": "https://github.com/DREXYOP/IndieAi#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.9.1",
+    "openai": "^3.1.0"
+  }
+}
